@@ -1,0 +1,54 @@
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1920" height="1080" fill="#001a4d"/>
+  
+  <!-- Large blue triangle left -->
+  <polygon points="0,450 300,200 300,700" fill="#0052ff" opacity="0.8"/>
+  
+  <!-- Large red/orange circle center -->
+  <circle cx="600" cy="350" r="200" fill="#ff5233" opacity="0.9"/>
+  
+  <!-- Yellow quarter circle bottom center -->
+  <path d="M 500 650 Q 500 550 600 550 L 600 650 Z" fill="#ffb800" opacity="0.9"/>
+  
+  <!-- Purple circle left bottom -->
+  <circle cx="300" cy="750" r="180" fill="#5500ff" opacity="0.7"/>
+  
+  <!-- Blue rectangle top left -->
+  <rect x="100" y="50" width="150" height="150" fill="#0052cc" opacity="0.6"/>
+  
+  <!-- Cyan square bottom left -->
+  <rect x="80" y="800" width="120" height="120" fill="#00ccff" opacity="0.5" transform="rotate(-30 140 860)"/>
+  
+  <!-- Paper plane top right -->
+  <polygon points="1400,200 1250,300 1300,280 1280,350" fill="#00e5ff" opacity="0.9"/>
+  
+  <!-- Blue circle right -->
+  <circle cx="1500" cy="150" r="100" fill="#0066ff" opacity="0.7"/>
+  
+  <!-- Orange circle right -->
+  <circle cx="1600" cy="280" r="80" fill="#ffaa00" opacity="0.8"/>
+  
+  <!-- Split circle purple/orange right -->
+  <circle cx="1350" cy="450" r="120" fill="#0066ff" opacity="0.9"/>
+  <circle cx="1350" cy="450" r="120" fill="#ff6633" opacity="0.6" clip-path="polygon(50% 0%, 100% 0%, 100% 100%, 50% 100%)"/>
+  
+  <!-- Large orange bottom right -->
+  <circle cx="1650" cy="850" r="200" fill="#ffaa00" opacity="0.7"/>
+  
+  <!-- Blue semicircle right -->
+  <path d="M 1550 100 Q 1550 200 1450 200 Q 1550 200 1550 100" fill="#0052ff" opacity="0.6"/>
+  
+  <!-- Decorative lines and dots -->
+  <line x1="200" y1="150" x2="400" y2="180" stroke="#ffaa00" stroke-width="3" opacity="0.5"/>
+  <line x1="400" y1="500" x2="700" y2="600" stroke="#00e5ff" stroke-width="2" stroke-dasharray="5,5" opacity="0.4"/>
+  <line x1="1200" y1="400" x2="1500" y2="600" stroke="#ff6633" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Decorative dots -->
+  <circle cx="150" cy="100" r="8" fill="#0099ff" opacity="0.6"/>
+  <circle cx="220" cy="130" r="6" fill="#00ccff" opacity="0.5"/>
+  <circle cx="280" cy="110" r="7" fill="#0066ff" opacity="0.7"/>
+  <circle cx="1300" cy="50" r="8" fill="#00e5ff" opacity="0.6"/>
+  <circle cx="1350" cy="80" r="6" fill="#00ccff" opacity="0.5"/>
+  <circle cx="1400" cy="65" r="7" fill="#0099ff" opacity="0.7"/>
+</svg>
